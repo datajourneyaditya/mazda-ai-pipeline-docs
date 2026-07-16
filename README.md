@@ -28,6 +28,9 @@ Most data pipelines are hardcoded. This one is not. The LLM agent receives raw m
     6 products, 762,059 rows — named, versioned, self-describing
          |
     DATABRICKS GENIE    Natural language query interface
+<img width="494" height="440" alt="architecture" src="https://github.com/user-attachments/assets/55458176-7298-46ad-b33c-98c663d9f19e" />
+
+
 ```
 
 ## Tech stack (100% free)
